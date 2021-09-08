@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any fullstack projects**
 
-- 👨‍💻 All of my projects are available at(even though many are private repos :) )) [https://github.com/legendslayer01?tab=repositories](https://github.com/legendslayer01?tab=repositories)
+- 👨‍💻 All of my projects are available at(even though many are private repos :) ) [https://github.com/legendslayer01?tab=repositories](https://github.com/legendslayer01?tab=repositories)
 
 - 💬 Ask me about **React,NextJS,Nodejs,MongoDB,MySQL**
 
