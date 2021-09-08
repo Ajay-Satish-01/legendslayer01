@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=legendslayer01&show_icons=true&locale=en&layout=compact" alt="legendslayer01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legendslayer01&show_icons=true&theme=dark&title_color=3a109e&text_color=ed0c0c&locale=en" alt="legendslayer01" /></p>
+
