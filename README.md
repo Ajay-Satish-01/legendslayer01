@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **ML**
 
-- 🌱 I’m currently good with **FullStack Dev**
+- 🌱 I’m currently good at **FullStack Dev**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
