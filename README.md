@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm S Ajay</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently learning **ML**
+- 🔭 I’m currently learning **QC**
 
 - 🌱 I’m currently good at **FullStack Dev**
 
