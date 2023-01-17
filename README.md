@@ -15,9 +15,3 @@
 
 - ⚡ Fun fact **Love Gaming**
 
-
-<p align="left">
-</p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=legendslayer01&show_icons=true&theme=radical&title_color=f2be02&text_color=07ed82&bg_color=5f42ae&hide_border=true&locale=en&layout=compact" alt="legendslayer01" /></p>
